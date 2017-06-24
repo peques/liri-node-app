@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "LIRI package json",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "node-spotify-api": "^1.0.5",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peques/liri-node-app.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Spotify",
+    "OMDB",
+    "APIs",
+    "LIRI"
+  ],
+  "author": "Saul Perea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peques/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/peques/liri-node-app#readme"
+}
